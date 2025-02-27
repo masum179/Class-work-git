@@ -14,8 +14,7 @@ public class HelloController {
     }
 
     @FXML
-    public void idClickButton(ActionEvent actionEvent) {
+    public void idButtonOnAction(ActionEvent actionEvent) {
         welcomeText.setText("2211403");
-
     }
 }
